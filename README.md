@@ -1,6 +1,5 @@
 ### Hi there! I'm [Nirman] ✨
 
-![Profile Banner]([https://source.unsplash.com/1600x400/?technology,ai,coding](https://unsplash.com/photos/a-laptop-computer-with-a-bunch-of-different-screens-on-top-of-it-XV2kGdTo9II))
 
 Welcome to my GitHub profile! I'm a passionate **AI & Machine Learning Enthusiast**, a **Full-Stack Developer**, and an aspiring **Tech Innovator**. I love building impactful projects that blend AI, backend development, and real-world solutions. 
 
