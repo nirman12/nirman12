@@ -1,6 +1,6 @@
-### Hi there! I'm [Your Name] ✨
+### Hi there! I'm [Nirman] ✨
 
-![Profile Banner](https://source.unsplash.com/1600x400/?technology,ai,coding)
+![Profile Banner]([https://source.unsplash.com/1600x400/?technology,ai,coding](https://unsplash.com/photos/a-laptop-computer-with-a-bunch-of-different-screens-on-top-of-it-XV2kGdTo9II))
 
 Welcome to my GitHub profile! I'm a passionate **AI & Machine Learning Enthusiast**, a **Full-Stack Developer**, and an aspiring **Tech Innovator**. I love building impactful projects that blend AI, backend development, and real-world solutions. 
 
@@ -8,11 +8,9 @@ Welcome to my GitHub profile! I'm a passionate **AI & Machine Learning Enthusias
 
 ### 🚀 About Me
 - 🎓 **BSc (Hons) in Computing** @ The British College (Currently in my 4th semester)
-- 🌟 Transferring credits to a **US college** soon
 - 💪 Building **AI-powered and IoT solutions**
-- 📝 Currently learning **React, Django & Machine Learning**
+- 📝 Currently learning **Backend & Machine Learning**
 - ⚖️ Developing **backend projects with Node.js & SQLAlchemy**
-- ⚽ Football enthusiast & Instagram page manager (@YourPage)
 
 ---
 
@@ -26,7 +24,6 @@ Welcome to my GitHub profile! I'm a passionate **AI & Machine Learning Enthusias
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 **Databases & Tools:**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -38,26 +35,22 @@ Welcome to my GitHub profile! I'm a passionate **AI & Machine Learning Enthusias
 
 ### 📝 Notable Projects
 - **🏨 Hotel Booking System** (Flask, MySQL, HTML, CSS, JavaScript) 
-- **🌐 Tournament Management Website** (Node.js, Express, PostgreSQL)
 - **💉 Vaccination Reminder Portal** (Automated SMS notifications for parents)
-- **🎒 Donation Platform for Poor Communities** (Social Impact Project)
 
 🔗 *More projects coming soon!*
 
 ---
 
 ### 💡 Future Goals
-- 👨‍💻 Secure a **FAANG-level job** after college
-- 📚 Master **Data Structures & Algorithms (DSA)**
 - ✨ Dive deeper into **AI, IoT, and Machine Learning**
 - 💡 Build **scalable SaaS products**
 
 ---
 
 ### 👤 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/nirman-khanal-7ab292216/))
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-page)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/your-page](https://www.instagram.com/k.nirmann/))
 
 ---
 
